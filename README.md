@@ -23,19 +23,15 @@
 - Got my licence degree in Electrical and Electronics engineering 
 
 
-
-
-# Stack
-
-## Software
-
 ### My Goals 
 
 - Agile Development
 - Software Design
 - Software Testing
 
+# Stack
 
+## Software
 
 ### Backend
 
