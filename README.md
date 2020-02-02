@@ -4,13 +4,13 @@
 
 ### I love Python, breathe Python and talk Python.
 
-## What I'am doing
+## What I'm doing
 
 ### Currently
 
 - Design websites using Figma. HTML, CSS3, Materialize, Sass
 - Develop REST API project ( Trivia API )
-- Finishing my Masters Degree on Computer Engineering
+- Finishing my Master's Degree in Computer Engineering
 - Reading Books: 
   - Clean Code by Robert c. Martin
   - Clean Architecture by Robert c. Martin
@@ -20,7 +20,7 @@
 
 - Founder of SoftwareMonks software development team
 - Develop IoT projects for fun using microcontrollers
-- Got my licence degree in Electrical and Electronics engineering 
+- Got my license degree in Electrical and Electronics engineering 
 
 
 ### My Goals 
