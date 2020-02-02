@@ -1,19 +1,48 @@
 # Souhaib Benbouzid
+
 ## Computer Engineer and Fullstack web developer/designer.
+
 ### I love Python, breathe Python and talk Python.
 
-- Designed websites using Figma. HTML, CSS3, Materialize, Sass
-- Develop IoT projects for fun using microcontrollers (Arduino)
-- Creative mind and able to analyze and solve technical problems.
-- Fast learner and able to adopt new environments and technologies
-- Founder of SoftwareMonks software development team
+## What I'am doing
 
-## Stack
+### Currently
+
+- Design websites using Figma. HTML, CSS3, Materialize, Sass
+- Develop REST API project ( Trivia API )
+- Finishing my Masters Degree on Computer Engineering
+- Reading Books: 
+  - Clean Code by Robert c. Martin
+  - Clean Architecture by Robert c. Martin
+  - The Essentials of Modern Software Engineering by  Ivar Jacobson, Harold Lawson, Michael Goedicke, Pan-Wei Ng, Paul E. McMahon.
+ 
+### Previously 
+
+- Founder of SoftwareMonks software development team
+- Develop IoT projects for fun using microcontrollers
+- Got my licence degree in Electrical and Electronics engineering 
+
+
+
+
+# Stack
+
+## Software
+
+### My Goals 
+
+- Agile Development
+- Software Design
+- Software Testing
+
+
 
 ### Backend
 
+- Python
 - PostgreSQL, SQLAlchemy. 
 - Flask, Flask-SQLAlchemy, Flask-Migrate, Flask-Cors, Flask-Wtforms.
+- Django
 
 ### Frontend
 
@@ -22,7 +51,6 @@
 - JavaScript, React, AJAX, JSON.
 - Git & Github
 
-
 #### Web Design
 
 - Figma
@@ -30,16 +58,21 @@
 - Materialize
 - Sass
 
-### Tech Leading
-
-- Agile Development
-- Software Testing
-- Software Design
-
 ### Version Control
 
 - Git & Github less
 
 
 
+## Hardware
+
+### Implementation
+
+- Arduino 
+- FPGA
+
+### Design
+
+- VHDL 
+- Quartus
 
